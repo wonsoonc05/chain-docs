@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css" nonce="e3fGHnWn+IV8T8en0VgkxA">
+.invfr{position:absolute;left:0;top:0;z-index:-1;width:0;height:0;border:0}
+
+</style>
+<link rel="shortcut icon" href="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Gmail
+</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google" value="notranslate">
+</head>
+<body jscontroller="cIAuaf" jsmodel="utMpr" jsaction="rcuQ6b:rcuQ6b;A59Jsf:aeO1Sd;RW0A4:WBopzd;LPBdz:LCjO0c;jrvfrd:PB0Csf;FGHbk:Nx2Sl;qNGYPc:LEY81c;FwQykc:k0aXUd;Aeulrb:nixEK">
+<iframe id=canvas_frame frameborder=0 name="c" src="?ui=2&amp;view=bsp&amp;ver=ohhl4rw8mbn4" title="main">
+</iframe>
+<script type="text/javascript" nonce="e3fGHnWn+IV8T8en0VgkxA">// 
+<![CDATA[
+var startTime=(new Date).getTime();function _GM_gRpc(name,args){var canvasIframe=document.getElementById("canvas_frame");var win=canvasIframe?canvasIframe.contentWindow:window;var a=[];for(var i=0;i
+<args.length;i++)a.push(args[i]);win["gadgets"]["rpc"][name].apply(win,a)}function onLoad(){var jsFrame=window.opener.js;if(jsFrame&&jsFrame._GM_ftcb){jsFrame._GM_ftcb(window);return}window.setTimeout(onLoad,200)}document.body.onload=onLoad;
+// ]]>
+</script>
+</body>
+</html>
